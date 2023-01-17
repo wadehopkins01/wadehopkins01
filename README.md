@@ -1,16 +1,19 @@
-### Hi there 👋
+<!-- markdownlint-disable-next-line -->
+<h1 align="center">Wade Hopkins!</h1>
 
-<!--
-**wadehopkins01/wadehopkins01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">About myself 🗣</h2>
 
-Here are some ideas to get you started:
+<h3 align="center">Hey there! Thanks for visiting my profile! :wave:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Since I was 7 years old, I've been using computers and have been learning how to use them. 🖥**\
+**Since I was 3, I made simple videogames using GameMaker to have some fun playing them. 🎮**
+
+Currently, I'm an active open-source advocate and community moderator in **5 communities**.
+
+<h2 align="center">Contact 📧</h2>
+Want to know more, discuss, or talk about anything? 💬
+- E-mail: wadehopkins01@gmail.com
+
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/paTz7UZbPfTZFRYnnB/200w.webp?cid=ecf05e47jnpggr9iiv2jgn0iillidf2hefiphgjdq0oywqhk&rid=200w.webp&ct=s" width="100"/>
+</div>
